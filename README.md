@@ -72,4 +72,4 @@ Repeat Phases 1 through 4 for the second device, ensuring you invert the `Consta
 * `/1_Simulink_Models/`: Contains the base `.slx` model and required audio assets (`siren_alarm.wav`).
 * `/2_Android_Security_Node/`: Custom Java source files and Manifest specifically tailored for the sensor-hub role.
 * `/3_Android_Monitor_Node/`: Custom Java source files and Manifest specifically tailored for UI logging and background audio alarms.
-* `/4_Project_Documentation/`: System architecture diagrams and technical write-ups.
+
